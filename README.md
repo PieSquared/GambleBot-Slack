@@ -1,5 +1,5 @@
 # GambleBot for Slack 
-Lets go gambling >:)
+
 
 About: 
 Gamble bot is a bot for Slack that gives you the ability to gamble virtual currency. This bot does not condone real world gambling!
@@ -18,4 +18,6 @@ or
 3. run ```node index.js to run```
 
 AI Usage: I used ai in this project to make my code organized and to help me add features and fix bugs.
+
+Happy gambling!!!
 
